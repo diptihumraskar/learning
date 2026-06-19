@@ -1,0 +1,14 @@
+/Users/dipti/Documents/GitHub/learning/coding/ThreeNumberSumApp/bin/Debug/net10.0/ThreeNumberSumApp
+/Users/dipti/Documents/GitHub/learning/coding/ThreeNumberSumApp/bin/Debug/net10.0/ThreeNumberSumApp.deps.json
+/Users/dipti/Documents/GitHub/learning/coding/ThreeNumberSumApp/bin/Debug/net10.0/ThreeNumberSumApp.runtimeconfig.json
+/Users/dipti/Documents/GitHub/learning/coding/ThreeNumberSumApp/bin/Debug/net10.0/ThreeNumberSumApp.dll
+/Users/dipti/Documents/GitHub/learning/coding/ThreeNumberSumApp/bin/Debug/net10.0/ThreeNumberSumApp.pdb
+/Users/dipti/Documents/GitHub/learning/coding/ThreeNumberSumApp/obj/Debug/net10.0/ThreeNumberSumApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dipti/Documents/GitHub/learning/coding/ThreeNumberSumApp/obj/Debug/net10.0/ThreeNumberSumApp.AssemblyInfoInputs.cache
+/Users/dipti/Documents/GitHub/learning/coding/ThreeNumberSumApp/obj/Debug/net10.0/ThreeNumberSumApp.AssemblyInfo.cs
+/Users/dipti/Documents/GitHub/learning/coding/ThreeNumberSumApp/obj/Debug/net10.0/ThreeNumberSumApp.csproj.CoreCompileInputs.cache
+/Users/dipti/Documents/GitHub/learning/coding/ThreeNumberSumApp/obj/Debug/net10.0/ThreeNumberSumApp.dll
+/Users/dipti/Documents/GitHub/learning/coding/ThreeNumberSumApp/obj/Debug/net10.0/refint/ThreeNumberSumApp.dll
+/Users/dipti/Documents/GitHub/learning/coding/ThreeNumberSumApp/obj/Debug/net10.0/ThreeNumberSumApp.pdb
+/Users/dipti/Documents/GitHub/learning/coding/ThreeNumberSumApp/obj/Debug/net10.0/ThreeNumberSumApp.genruntimeconfig.cache
+/Users/dipti/Documents/GitHub/learning/coding/ThreeNumberSumApp/obj/Debug/net10.0/ref/ThreeNumberSumApp.dll
